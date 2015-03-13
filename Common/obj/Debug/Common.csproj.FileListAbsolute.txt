@@ -1,7 +1,0 @@
-G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Common\bin\Debug\Common.dll
-G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Common\bin\Debug\Common.pdb
-G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Common\bin\Debug\Autofac.Configuration.dll
-G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Common\bin\Debug\Autofac.dll
-G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
-G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Common\obj\Debug\Common.dll
-G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Common\obj\Debug\Common.pdb
