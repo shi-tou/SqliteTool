@@ -1,0 +1,12 @@
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\bin\Debug\Service.dll
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\bin\Debug\Service.pdb
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\bin\Debug\Autofac.Configuration.dll
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\bin\Debug\Autofac.dll
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\bin\Debug\Common.dll
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\bin\Debug\Dao.dll
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\bin\Debug\System.Data.SQLite.dll
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\bin\Debug\Common.pdb
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\bin\Debug\Dao.pdb
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\obj\Debug\Service.dll
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Service\obj\Debug\Service.pdb

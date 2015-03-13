@@ -1,0 +1,5 @@
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Model\bin\Debug\Model.dll
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Model\bin\Debug\Model.pdb
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Model\obj\Debug\Model.dll
+G:\测试Project\Sqlite 辅助工具-深圳【石头】0\Model\obj\Debug\Model.pdb
